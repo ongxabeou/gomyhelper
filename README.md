@@ -2,7 +2,7 @@
 
 ## For Signature
 
-```code
+```go
 
 	func main() {
 		s := Signature{Hash:crypto.SHA256 }
